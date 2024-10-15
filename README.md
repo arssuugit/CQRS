@@ -9,7 +9,7 @@ curl --location 'http://localhost:9191/products' \
     "type": "CreateProduct",
     "product": {
         "name": "Books",
-        "description": "KK publication",
+        "description": "anbu publication",
         "price": 999
     }
 }'
