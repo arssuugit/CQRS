@@ -1,0 +1,6 @@
+D:\Sample_Projects\cqrs\cqrs-design-pattern-main\product-command-service\src\main\java\com\org\repository\ProductRepository.java
+D:\Sample_Projects\cqrs\cqrs-design-pattern-main\product-command-service\src\main\java\com\org\ProductCommandServiceApplication.java
+D:\Sample_Projects\cqrs\cqrs-design-pattern-main\product-command-service\src\main\java\com\org\entity\Product.java
+D:\Sample_Projects\cqrs\cqrs-design-pattern-main\product-command-service\src\main\java\com\org\controller\ProductCommandController.java
+D:\Sample_Projects\cqrs\cqrs-design-pattern-main\product-command-service\src\main\java\com\org\dto\ProductEvent.java
+D:\Sample_Projects\cqrs\cqrs-design-pattern-main\product-command-service\src\main\java\com\org\service\ProductCommandService.java
